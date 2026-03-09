@@ -1,0 +1,7 @@
+{
+  "name": "Vòng Quay May Mắn - Viral Marketing",
+  "description": "Mini game vòng quay may mắn với cơ chế viral, mời bạn bè và thu thập khách hàng tiềm năng.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
